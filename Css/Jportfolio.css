@@ -1,0 +1,177 @@
+/* About Content Box */
+.aboutContent{
+    background-color: darkgray!important;
+    padding-left: 28px;   
+}
+#abID{
+    
+    width: auto;
+    padding-left: 50px
+}
+#aboutID{
+    margin-left: 0px;
+    margin: auto;
+    
+}
+/* About paragraph */
+.pAbout{
+    text-align: center;
+    color: white;
+    max-width: auto;
+    max-height: auto;
+    position: absolute;
+}
+.folioHead{
+    text-align: center;
+    color: black;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 20px;
+}
+.pImage{
+    
+    
+    
+}
+/*Image*/
+.meImg{
+    position: relative;
+    right:100%;
+    width: 120px;
+    border-radius: 100px;
+     
+}
+
+/*Navbar */
+#navID{
+    background-color: dodgerblue;  
+}
+/*Nav Links */
+.aLink, .pLink, .cLink{
+    color: white;   
+}
+/*Brand Link*/
+.myBrand{
+    color: white !important; 
+    margin-left:20px;
+} 
+
+
+.aboutPara{
+    
+    max-width: 500px;
+    margin: 40px;
+    padding-left: 11px;
+    float: left;
+    display: inline;
+    
+}
+/* Title */
+.jTit{
+    text-align: center;
+    color: white;
+}
+
+.container-fluid{
+    
+    max-width: 800px;
+    
+}
+body{
+    background-color: white !important;
+}
+
+.folioHr2{
+    
+}
+.myPara{
+    max-width: 200px;
+    float: right;
+    text-align: left;
+    
+
+}
+
+/*Nav option section */
+.col-xs-3{
+    padding-top: 7px;  
+}
+#girlID{
+   text-align: center;
+}
+#appID{
+    text-align: center;
+    max-width: 300px;
+    margin-left: 40px;
+}
+#imgID{
+    text-align: center;
+    height: 200px;
+    width: 150px;
+    margin: 10px;
+    margin-right: 80px;
+    float: right;
+}
+.appPic{
+    
+    max-height: 306px;
+    margin: auto;
+    padding: 20px;
+}
+.gdPic{
+   width: 345px;
+   margin: auto;
+   padding: 20px;
+}
+.meImg{
+    float: left;
+    margin-left: 2px;
+}
+#gallID{
+    background-color: dodgerblue;
+    margin-left: 0;
+    margin-top: 0;
+    max-width: 770px;
+    
+}
+.aboutSec{
+    
+}
+.arounSec{
+    
+}
+.box1,.box2,.box3,.box4,.box5{
+    margin: 0;
+    padding: 15px;
+    clear: both;
+    max-width: 300px !important;
+}
+
+.conForm{
+    margin: 20px;
+    width: 300px;   
+}
+.myPara{
+    padding: 0;
+    margin: 0;
+    margin-bottom: 20px
+    clear: both;
+}
+.myP{
+   margin: 20px; 
+}
+.contactHead{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    clear:both;
+}
+.contactDiv{
+    margin: 20px !important;
+}
+
+.aboutSec{
+    float:right;
+}
